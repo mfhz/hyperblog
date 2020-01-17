@@ -1,7 +1,10 @@
-Esta es una prueba del curso de Git Hub
+Esta es una prueba del curso de Git-Hub
 
 
 Se empezó el 16 de enero del 2020
 
 
-Este es un curso avanzado de Git Hub
+Este es un curso avanzado de Git-Hub
+
+
+Para profundizar este tema super importante
