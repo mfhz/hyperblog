@@ -5,6 +5,3 @@ Se empezó el 16 de enero del 2020
 
 
 Este es un curso avanzado de Git-Hub
-
-
-Para profundizar este tema super importante
