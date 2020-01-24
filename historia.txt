@@ -9,5 +9,5 @@ Este es un curso avanzado de Git-Hub
 
 Para repasar y profundizar bien este tema.
 
-Instalcom estará presente en el curso
+Instalcom estará contribuyendo en este curso
 
